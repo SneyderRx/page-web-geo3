@@ -56,7 +56,7 @@ p{
     display: flex;
     align-items: center;
     width: 100%;
-    max-width: 1200px; /* Adjust as necessary */
+    max-width: 1200px;
     margin-bottom: 20px;
 
     &:nth-child(odd){
@@ -67,7 +67,7 @@ p{
     }
 
     .article__img {
-      width: 50%; /* Adjust the width as necessary */
+      width: 50%; 
       height: 100%;
       object-fit: cover;
     }
@@ -77,7 +77,7 @@ p{
         color: var(--articulo-tittlecolor);
         padding: 20px;
         margin: 0;
-        width: 50%; /* Adjust the width as necessary */
+        width: 50%; 
         text-align: center;
         display: flex;
         justify-content: center;
