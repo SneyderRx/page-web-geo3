@@ -50,6 +50,10 @@ p{
 
   .articleBig{
     width: 100%;
+    .articleBig__img{
+      width: 100%;
+      display: block;
+    }
   }
   
    .article {
